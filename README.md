@@ -1,2 +1,3 @@
-# digital_resume
-This shows the profile of a person
+# portfolio
+This is project created to show the portfolio of a person
+Link : https://letsbecometechie.github.io/portfolio/
